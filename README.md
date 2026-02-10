@@ -158,8 +158,3 @@ Cursor translated my instructions into AWS actions and enabled full S3 Block Pub
 
 ---
 
-## Wrap-up
-
----
-
----
